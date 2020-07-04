@@ -6,7 +6,7 @@
 # sudo snap install --classic heroku
 
 # Run your own app:- 
-# 1. git clone git clone https://github.com/akbloodadarsh/GuessTheNUmberAdSenseTest.git
+# 1. git clone https://github.com/akbloodadarsh/GuessTheNUmberAdSenseTest.git
 # 2. cd GuessTheNUmberAdSenseTest/
 # 3. heroku create
 # 4. git add .
